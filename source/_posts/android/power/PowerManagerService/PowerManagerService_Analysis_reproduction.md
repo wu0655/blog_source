@@ -1,5 +1,5 @@
 ---
-title: PowerManagerService分析，适用于android 6.0, 7.0
+title: Android6.0中PowerManagerService分析（转载）
 date: 2017-07-17 10:26:36
 categories: reproduction
 tags:
@@ -10,6 +10,8 @@ tags:
 ---
 
 本文的mardkown源文件位于：
+[md源文件](https://raw.githubusercontent.com/wu0655/blog_source/master/source/_posts/android/power/PowerManagerService/PowerManagerService_Analysis_reproduction.md)
+android m, android n都适用
 
 本文基于下文的修改：
 [Android6.0中PowerManagerService分析](http://www.chongchonggou.com/g_50812011.html)
