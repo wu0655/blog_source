@@ -1,12 +1,13 @@
 ---
 title: Android6.0中PowerManagerService分析（转载）
 date: 2017-07-17 10:26:36
-categories: reproduction
+categories: android
 tags:
 	- android_m
 	- android_n
 	- power
 	- android
+	- reproduction
 ---
 
 本文的mardkown源文件位于：
